@@ -1,0 +1,103 @@
+2024/07/18 08:25:38.845583 [Main] Using redis server on port: [32m6379[0m
+2024/07/18 08:25:38.845854 [Main] Started [32mMain[0m process [PID [32m5092[0m]
+2024/07/18 08:25:38.850259 [Main] Started [32mPBar[0m process [PID [32m5102[0m]
+2024/07/18 08:25:38.944071 [Main] Starting modules
+2024/07/18 08:25:40.731119 [Main] 		Starting the module [32mARP[0m (Detect ARP attacks) [PID [32m5201[0m]
+2024/07/18 08:25:40.749244 [Main] 		Starting the module [32mFlow Alerts[0m (Alerts about flows: long connection, successful ssh, password guessing, self-signed certificate, data exfiltration, etc.) [PID [32m5204[0m]
+2024/07/18 08:25:40.758124 [Main] 		Starting the module [32mFlow ML Detection[0m (Train or test a Machine Learning model to detect malicious flows) [PID [32m5205[0m]
+2024/07/18 08:25:40.767738 [Main] 		Starting the module [32mHTTP Analyzer[0m (Analyze HTTP flows) [PID [32m5206[0m]
+2024/07/18 08:25:40.776012 [Main] 		Starting the module [32mIP Info[0m (Get different info about an IP/MAC address) [PID [32m5207[0m]
+2024/07/18 08:25:40.783516 [Main] 		Starting the module [32mNetwork Discovery[0m (Detect Horizonal, Vertical Port scans, ICMP, and DHCP scans) [PID [32m5208[0m]
+2024/07/18 08:25:40.791979 [Main] 		Starting the module [32mRisk IQ[0m (Module to get passive DNS info about IPs from RiskIQ) [PID [32m5209[0m]
+2024/07/18 08:25:40.801315 [Main] 		Starting the module [32mRNN C&C Detection[0m (Detect C&C channels based on behavioral letters) [PID [32m5210[0m]
+2024/07/18 08:25:40.833380 [Main] 		Starting the module [32mThreat Intelligence[0m (Check if the source IP or destination IP are in a malicious list of IPs) [PID [32m5308[0m]
+2024/07/18 08:25:40.842895 [Main] 		Starting the module [32mTimeline[0m (Creates kalipso timeline of what happened in the network based on flows and available data) [PID [32m5310[0m]
+2024/07/18 08:25:40.855882 [Main] 		Starting the module [32mUpdate Manager[0m (Update Threat Intelligence files) [PID [32m5311[0m]
+2024/07/18 08:25:40.864281 [Update Manager] Checking if we need to download TI files.
+2024/07/18 08:25:40.866335 [Main] 		Starting the module [32mVirustotal[0m (IP, domain and file hash lookup on Virustotal) [PID [32m5312[0m]
+2024/07/18 08:25:41.367282 [Main] Disabled Modules: ['template', 'ensembling', 'exporting_alerts', 'p2ptrust', 'cesnet', 'blocking', 'leak_detector', 'cyst']
+2024/07/18 08:25:41.380259 [Evidence] Storing Slips logs in output/nmap.pcap_2024-07-18_08:25:36/
+2024/07/18 08:25:41.386993 [Main] Started [32mEvidence Process[0m [PID [32m5313[0m]
+2024/07/18 08:25:41.399201 [Main] Started [32mProfiler Process[0m [PID [32m5314[0m]
+2024/07/18 08:25:41.401630 [Main] Metadata added to output/nmap.pcap_2024-07-18_08:25:36/metadata
+2024/07/18 08:25:41.410402 [Main] Started [32mInput Process[0m [PID [32m5315[0m]
+2024/07/18 08:25:41.413237 [Main] Warning: Slips may generate a large amount of traffic by querying TI sites.
+2024/07/18 08:25:41.418824 [Input] Storing zeek log files in output/nmap.pcap_2024-07-18_08:25:36/zeek_files
+2024/07/18 08:25:41.908305 [Input] Zeek error. return code: 0 error:b"1721286989.679691 warning in /opt/zeek/share/zeek/base/misc/find-filtered-trace.zeek, line 69: The analyzed trace file was determined to contain only TCP control packets, which may indicate it's been pre-filtered.  By default, Zeek reports the missing segments for this type of trace, but the 'detect_filtered_trace' option may be toggled if that's not desired."
+2024/07/18 08:26:14.426612 [Input] We read everything. No more input. Stopping input process. Sent 1003 lines
+2024/07/18 08:26:14.426713 [Input] Telling Profiler to stop because no more input is arriving.
+2024/07/18 08:26:14.426777 [Input] Waiting for Profiler to stop.
+2024/07/18 08:26:14.426957 [Profiler] Stopping. Total lines read: 1003
+2024/07/18 08:26:14.427086 [Profiler] Marking Profiler as done processing.
+2024/07/18 08:26:14.427129 [Profiler] Profiler is done processing.
+2024/07/18 08:26:14.427203 [Profiler] Profiler is done telling input.py that it's done processing.
+2024/07/18 08:26:14.427209 [Input] Input is done processing.
+2024/07/18 08:26:14.427246 [Profiler] Stopping. Total lines read: 1003
+2024/07/18 08:26:14.830687 [Input] Stopping. Total lines read: 1003
+2024/07/18 08:26:16.511055 [Main] 
+---------------------------
+2024/07/18 08:26:16.511331 [Main] Stopping Slips
+2024/07/18 08:26:16.526964 [Main] Analysis of Traffic/nmap.pcap finished in 0.63 minutes
+2024/07/18 08:26:16.527217 [Main] Total flows read (without altflows): 1000
+2024/07/18 08:26:16.542779 [Main] 	[32mThreat Intelligence [0m 	Stopped. [32m13[0m left.
+2024/07/18 08:26:16.546281 [Main] 	[32mProgress Bar        [0m 	Stopped. [32m12[0m left.
+2024/07/18 08:26:16.547917 [Main] 	[32mNetwork Discovery   [0m 	Stopped. [32m11[0m left.
+2024/07/18 08:26:19.551614 [Main] 	[32mRNN C&C Detection   [0m 	Stopped. [32m10[0m left.
+2024/07/18 08:26:19.552063 [Main] 	[32mInput               [0m 	Stopped. [32m9[0m left.
+2024/07/18 08:26:22.555662 [Main] 	[32mFlow Alerts         [0m 	Stopped. [32m8[0m left.
+2024/07/18 08:26:22.556107 [Main] 	[32mProfiler            [0m 	Stopped. [32m7[0m left.
+2024/07/18 08:26:22.556408 [Main] 	[32mHTTP Analyzer       [0m 	Stopped. [32m6[0m left.
+2024/07/18 08:26:22.556703 [Main] 	[32mARP                 [0m 	Stopped. [32m5[0m left.
+2024/07/18 08:26:22.556970 [Main] 	[32mIP Info             [0m 	Stopped. [32m4[0m left.
+2024/07/18 08:26:22.557237 [Main] 	[32mFlow ML Detection   [0m 	Stopped. [32m3[0m left.
+2024/07/18 08:26:22.557455 [Main] The following modules are busy working on your data.
+
+['Timeline', 'Update Manager', 'Evidence']
+
+You can wait for them to finish, or you can press CTRL-C again to force-kill.
+
+2024/07/18 08:26:22.557581 [Main] Update Manager may take several minutes to finish updating 45+ TI files.
+2024/07/18 08:26:36.573253 [Main] 	[32mTimeline            [0m 	Stopped. [32m2[0m left.
+2024/07/18 08:26:53.177540 [Update Manager] Updating the remote file https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_blacklist_for_IPs_seen_last_24_hours.csv
+2024/07/18 08:27:04.425123 [Update Manager] Successfully updated in DB the remote file https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_blacklist_for_IPs_seen_last_24_hours.csv
+2024/07/18 08:27:04.425375 [Update Manager] Updating the remote file https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv
+2024/07/18 08:27:13.385611 [Update Manager] Successfully updated in DB the remote file https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Todays-Blacklists/AIP_historical_blacklist_prioritized_by_newest_attackers.csv
+2024/07/18 08:27:13.385936 [Update Manager] Updating the remote file https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+2024/07/18 08:27:16.405027 [Update Manager] Successfully updated in DB the remote file https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+2024/07/18 08:27:16.405199 [Update Manager] Updating the remote file https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
+2024/07/18 08:29:13.673018 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
+2024/07/18 08:29:13.673781 [Update Manager] Updating the remote file https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
+2024/07/18 08:29:16.701310 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
+2024/07/18 08:29:16.701530 [Update Manager] Updating the remote file https://nerd.cesnet.cz/nerd/data/bad_ips.txt
+2024/07/18 08:29:23.682302 [Update Manager] Successfully updated in DB the remote file https://nerd.cesnet.cz/nerd/data/bad_ips.txt
+2024/07/18 08:29:23.682530 [Update Manager] Updating the remote file https://lists.blocklist.de/lists/all.txt
+2024/07/18 08:29:37.745550 [Update Manager] Successfully updated in DB the remote file https://lists.blocklist.de/lists/all.txt
+2024/07/18 08:29:37.745868 [Update Manager] Updating the remote file https://lists.blocklist.de/lists/ssh.txt
+2024/07/18 08:29:44.561487 [Update Manager] Successfully updated in DB the remote file https://lists.blocklist.de/lists/ssh.txt
+2024/07/18 08:29:44.561696 [Update Manager] Updating the remote file https://lists.blocklist.de/lists/mail.txt
+2024/07/18 08:29:54.663193 [Update Manager] Successfully updated in DB the remote file https://lists.blocklist.de/lists/mail.txt
+2024/07/18 08:29:54.663516 [Update Manager] Updating the remote file https://lists.blocklist.de/lists/bruteforcelogin.txt
+2024/07/18 08:29:57.827728 [Update Manager] Successfully updated in DB the remote file https://lists.blocklist.de/lists/bruteforcelogin.txt
+2024/07/18 08:29:57.827871 [Update Manager] Updating the remote file https://feodotracker.abuse.ch/downloads/ipblocklist.csv
+2024/07/18 08:30:00.728268 [Update Manager] Successfully updated in DB the remote file https://feodotracker.abuse.ch/downloads/ipblocklist.csv
+2024/07/18 08:30:00.728432 [Update Manager] Updating the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/compromised-ips.intel
+2024/07/18 08:30:03.820646 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/compromised-ips.intel
+2024/07/18 08:30:03.820828 [Update Manager] Updating the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/cps-collected-iocs.intel
+2024/07/18 08:30:20.621130 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/cps-collected-iocs.intel
+2024/07/18 08:30:20.622367 [Update Manager] Updating the remote file https://www.spamhaus.org/drop/drop.txt
+2024/07/18 08:30:23.603243 [Update Manager] Successfully updated in DB the remote file https://www.spamhaus.org/drop/drop.txt
+2024/07/18 08:30:23.603459 [Update Manager] Updating the remote file https://hole.cert.pl/domains/domains.json
+2024/07/18 08:31:02.048209 [Update Manager] Successfully updated in DB the remote file https://hole.cert.pl/domains/domains.json
+2024/07/18 08:31:02.052915 [Update Manager] Updating the remote file https://raw.githubusercontent.com/rstcloud/rstthreats/master/feeds/full/random100_ioc_ip_latest.json
+2024/07/18 08:31:04.990710 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/rstcloud/rstthreats/master/feeds/full/random100_ioc_ip_latest.json
+2024/07/18 08:31:04.990925 [Update Manager] Updating the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/binarydefense.intel
+2024/07/18 08:31:08.374754 [Update Manager] Successfully updated in DB the remote file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/binarydefense.intel
+2024/07/18 08:31:08.374962 [Update Manager] Updating the remote file https://sslbl.abuse.ch/blacklist/ja3_fingerprints.csv
+2024/07/18 08:31:11.286483 [Update Manager] Successfully updated in DB the remote file https://sslbl.abuse.ch/blacklist/ja3_fingerprints.csv
+2024/07/18 08:31:11.286668 [Update Manager] Updating the remote file https://sslbl.abuse.ch/blacklist/sslblacklist.csv
+2024/07/18 08:31:14.254311 [Update Manager] Successfully updated in DB the remote file https://sslbl.abuse.ch/blacklist/sslblacklist.csv
+2024/07/18 08:31:14.296996 [Update Manager] 43 TI files successfully loaded.
+2024/07/18 08:31:14.326309 [Main] 	[32mUpdate Manager      [0m 	Stopped. [32m1[0m left.
+2024/07/18 08:31:14.326804 [Main] 	[32mEvidence            [0m 	Stopped. [32m0[0m left.
+2024/07/18 08:31:14.334437 [Main] [Process Manager] Slips shutdown gracefully
+
