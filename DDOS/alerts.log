@@ -1,0 +1,605 @@
+2024-07-19T07:53:29.905438+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905438+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905609+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905609+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905698+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905698+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905788+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905788+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905872+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905872+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905956+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.905956+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906039+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906039+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906124+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906124+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906208+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906208+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906290+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906290+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906371+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906371+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906451+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906451+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906529+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906529+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906613+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906613+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906698+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906698+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906775+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906775+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906857+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906857+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906938+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906938+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907018+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907018+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907098+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907098+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907179+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907179+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907260+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907260+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907341+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907341+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907408+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907408+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907486+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907486+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907564+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907564+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907647+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907647+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907728+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907728+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907809+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907809+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907891+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907891+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907971+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907971+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908050+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908050+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908131+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908131+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908209+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908209+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908364+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908364+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908445+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908445+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908525+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908525+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908603+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908603+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908684+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908684+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908741+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908741+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908822+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908822+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908902+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908902+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908983+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908983+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909062+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909062+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909142+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909142+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909233+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909233+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909315+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909315+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909396+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909396+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909470+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909470+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909544+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909544+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909630+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909630+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909707+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909707+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909781+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909781+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909857+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909857+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909912+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909912+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909993+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909993+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910071+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910071+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910150+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910150+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910227+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910227+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910308+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910308+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910388+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910388+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910471+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910471+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910552+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910552+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910635+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910635+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910716+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910716+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910796+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910796+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910876+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910876+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910958+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910958+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911039+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911039+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911119+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911119+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911199+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911199+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911277+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911277+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911356+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911356+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911436+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911436+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911512+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911512+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911595+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911595+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911676+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911676+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911756+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911756+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.905520+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.905641+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.905726+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.905816+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.905901+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.905984+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906066+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911834+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906155+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906235+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911834+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906317+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906398+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906479+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906557+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906642+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911889+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.906726+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906803+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911889+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.906882+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.906964+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907045+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907127+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907206+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907287+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907368+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907435+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907511+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912048+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.907594+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907675+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912048+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.907755+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907836+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907917+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.907997+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908077+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912130+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.908158+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912130+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908235+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908316+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908391+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908472+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908551+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908631+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908712+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908770+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.908849+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912210+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.912210+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.908928+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909008+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909089+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909176+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909260+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909342+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909423+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909497+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909570+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909658+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909734+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912369+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.909808+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912369+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.909884+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.909940+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910020+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910097+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910176+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912448+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910253+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912448+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910335+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910415+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910500+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910579+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910663+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912536+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.910743+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912536+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.910823+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910905+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.910986+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911065+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912618+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911146+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912618+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911225+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911303+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911383+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911463+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911539+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911623+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911703+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911784+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912696+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.911861+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.911916+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912696+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.911993+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912075+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912156+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912237+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912778+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.912314+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912778+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.912395+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912474+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912564+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912646+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912723+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912804+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912859+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.912886+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912859+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.912969+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.912941+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.912941+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913023+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913023+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913050+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913101+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913127+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913101+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913183+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913183+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913210+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913260+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913286+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913260+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913339+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913339+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913365+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913418+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913418+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913443+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913494+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913520+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913494+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913572+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913572+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913601+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913658+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913658+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913685+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913736+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913763+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913736+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913816+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913816+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913841+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913895+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913921+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.913895+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.913973+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.913973+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914000+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914054+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914054+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914081+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914132+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914157+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914132+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914211+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914211+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914237+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914291+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914318+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914291+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914370+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914398+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914370+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914451+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914451+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914476+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914529+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914529+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914555+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914611+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914638+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914611+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914690+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914715+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914690+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914794+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914768+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914768+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914872+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.914846+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914846+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914927+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.914927+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.914955+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915006+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915034+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915006+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915088+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915088+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915115+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915166+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915193+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915166+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915244+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915244+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915272+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915326+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915326+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915352+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915404+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915404+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915430+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915509+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915483+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915483+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915563+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915591+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915563+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915645+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915645+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915672+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915752+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915726+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915726+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915806+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915834+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915806+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915916+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915890+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915890+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.915995+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.915968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.915968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916075+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916048+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916048+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916156+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916129+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916129+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916209+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916209+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916237+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916314+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916368+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916368+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916394+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916445+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916472+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916445+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916550+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916523+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916523+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916632+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916605+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916605+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916684+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916684+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916710+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916764+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916764+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916790+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916842+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916842+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.916869+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916923+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.916950+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.916923+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917001+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917001+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917027+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.917078+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917078+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917104+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.917157+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917157+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917183+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.917235+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917261+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.917235+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917342+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.917315+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917315+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917395+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.917395+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.917422+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920084+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920084+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920125+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920177+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920177+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920206+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920257+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920289+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920257+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920375+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920342+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920342+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920425+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920452+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920425+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920498+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920498+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920526+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920573+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920604+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920573+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920642+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920642+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920669+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920720+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920720+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920747+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920785+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920785+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920812+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920892+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.920864+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920864+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920945+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.920945+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.920970+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921046+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921019+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921019+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921093+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921093+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921120+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921203+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921172+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921172+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921250+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921276+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921250+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921328+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921328+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921354+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921391+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921418+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921391+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921468+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921468+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921497+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921544+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921544+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921569+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921626+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921653+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921626+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921717+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921690+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921690+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921769+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921769+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921795+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921843+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921871+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921843+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921923+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.921949+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921923+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.921988+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922015+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.921988+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922066+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922094+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922066+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922130+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922130+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922158+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922208+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922208+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922235+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922274+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922274+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922301+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922353+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922353+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922379+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922421+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922447+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922421+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922525+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922499+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922499+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922578+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922578+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922702+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922675+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922675+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922740+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922768+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922740+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922816+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922816+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922843+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922890+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922890+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.922916+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.922995+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.922968+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923041+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923041+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923068+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923115+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923142+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923115+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923187+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923213+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923187+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923265+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923293+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923265+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923367+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923341+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923341+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923405+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923405+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923431+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923485+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923511+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:29.923485+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923555+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:29.923555+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:29.923584+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:44.929986+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:44.929986+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:44.929767+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:44.929767+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:44.929460+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:44.929460+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:44.929229+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:44.929229+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:44.930106+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:44.928786+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connection to unknown destination port 6379/TCP destination IP 172.17.0.3.  threat level: high. 
+2024-07-19T07:53:44.928786+00:00 (TW 1): Src IP 172.17.0.4                . Detected Connecting to private IP: 172.17.0.3 on destination port: 6379 threat level: info. 
+2024-07-19T07:53:44.929872+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:44.929585+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:44.929343+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 
+2024-07-19T07:53:44.928944+00:00 (TW 1): Src IP 172.17.0.4                . Detected Unencrypted HTTP traffic from 172.17.0.4 to 172.17.0.3. threat level: info. 

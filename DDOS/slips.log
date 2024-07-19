@@ -1,0 +1,57 @@
+2024/07/19 07:54:27.110276 [Main] Using redis server on port: [32m6379[0m
+2024/07/19 07:54:27.110536 [Main] Started [32mMain[0m process [PID [32m8006[0m]
+2024/07/19 07:54:27.115035 [Main] Started [32mPBar[0m process [PID [32m8016[0m]
+2024/07/19 07:54:27.196077 [Main] Starting modules
+2024/07/19 07:54:28.888473 [Main] 		Starting the module [32mARP[0m (Detect ARP attacks) [PID [32m8115[0m]
+2024/07/19 07:54:28.907061 [Main] 		Starting the module [32mFlow Alerts[0m (Alerts about flows: long connection, successful ssh, password guessing, self-signed certificate, data exfiltration, etc.) [PID [32m8118[0m]
+2024/07/19 07:54:28.916299 [Main] 		Starting the module [32mFlow ML Detection[0m (Train or test a Machine Learning model to detect malicious flows) [PID [32m8119[0m]
+2024/07/19 07:54:28.926040 [Main] 		Starting the module [32mHTTP Analyzer[0m (Analyze HTTP flows) [PID [32m8120[0m]
+2024/07/19 07:54:28.934851 [Main] 		Starting the module [32mIP Info[0m (Get different info about an IP/MAC address) [PID [32m8121[0m]
+2024/07/19 07:54:28.942996 [Main] 		Starting the module [32mNetwork Discovery[0m (Detect Horizonal, Vertical Port scans, ICMP, and DHCP scans) [PID [32m8122[0m]
+2024/07/19 07:54:28.952521 [Main] 		Starting the module [32mRisk IQ[0m (Module to get passive DNS info about IPs from RiskIQ) [PID [32m8123[0m]
+2024/07/19 07:54:28.962771 [Main] 		Starting the module [32mRNN C&C Detection[0m (Detect C&C channels based on behavioral letters) [PID [32m8124[0m]
+2024/07/19 07:54:28.995785 [Main] 		Starting the module [32mThreat Intelligence[0m (Check if the source IP or destination IP are in a malicious list of IPs) [PID [32m8222[0m]
+2024/07/19 07:54:29.005394 [Main] 		Starting the module [32mTimeline[0m (Creates kalipso timeline of what happened in the network based on flows and available data) [PID [32m8224[0m]
+2024/07/19 07:54:29.018136 [Main] 		Starting the module [32mUpdate Manager[0m (Update Threat Intelligence files) [PID [32m8225[0m]
+2024/07/19 07:54:29.022640 [Update Manager] Checking if we need to download TI files.
+2024/07/19 07:54:29.028257 [Main] 		Starting the module [32mVirustotal[0m (IP, domain and file hash lookup on Virustotal) [PID [32m8226[0m]
+2024/07/19 07:54:29.529867 [Main] Disabled Modules: ['template', 'ensembling', 'exporting_alerts', 'p2ptrust', 'cesnet', 'blocking', 'leak_detector', 'cyst']
+2024/07/19 07:54:29.542667 [Evidence] Storing Slips logs in output/ddos.pcap_2024-07-19_07:54:25/
+2024/07/19 07:54:29.549519 [Main] Started [32mEvidence Process[0m [PID [32m8227[0m]
+2024/07/19 07:54:29.561433 [Main] Started [32mProfiler Process[0m [PID [32m8228[0m]
+2024/07/19 07:54:29.563611 [Main] Metadata added to output/ddos.pcap_2024-07-19_07:54:25/metadata
+2024/07/19 07:54:29.572163 [Main] Started [32mInput Process[0m [PID [32m8229[0m]
+2024/07/19 07:54:29.575040 [Main] Warning: Slips may generate a large amount of traffic by querying TI sites.
+2024/07/19 07:54:29.580550 [Input] Storing zeek log files in output/ddos.pcap_2024-07-19_07:54:25/zeek_files
+2024/07/19 07:54:54.098525 [Update Manager] 43 TI files successfully loaded.
+2024/07/19 07:55:02.590265 [Input] We read everything. No more input. Stopping input process. Sent 404 lines
+2024/07/19 07:55:02.590360 [Input] Telling Profiler to stop because no more input is arriving.
+2024/07/19 07:55:02.590416 [Input] Waiting for Profiler to stop.
+2024/07/19 07:55:02.590557 [Profiler] Stopping. Total lines read: 404
+2024/07/19 07:55:02.590684 [Profiler] Marking Profiler as done processing.
+2024/07/19 07:55:02.590724 [Profiler] Profiler is done processing.
+2024/07/19 07:55:02.590809 [Profiler] Profiler is done telling input.py that it's done processing.
+2024/07/19 07:55:02.590814 [Input] Input is done processing.
+2024/07/19 07:55:02.590844 [Profiler] Stopping. Total lines read: 404
+2024/07/19 07:55:03.036627 [Input] Stopping. Total lines read: 404
+2024/07/19 07:55:04.686620 [Main] 
+---------------------------
+2024/07/19 07:55:04.686860 [Main] Stopping Slips
+2024/07/19 07:55:04.701599 [Main] Analysis of Traffic/DDOS/ddos.pcap finished in 0.63 minutes
+2024/07/19 07:55:04.701872 [Main] Total flows read (without altflows): 202
+2024/07/19 07:55:04.718226 [Main] 	[32mARP                 [0m 	Stopped. [32m13[0m left.
+2024/07/19 07:55:04.719567 [Main] 	[32mProgress Bar        [0m 	Stopped. [32m12[0m left.
+2024/07/19 07:55:04.719753 [Main] 	[32mFlow ML Detection   [0m 	Stopped. [32m11[0m left.
+2024/07/19 07:55:04.719895 [Main] 	[32mInput               [0m 	Stopped. [32m10[0m left.
+2024/07/19 07:55:04.732871 [Main] 	[32mRNN C&C Detection   [0m 	Stopped. [32m9[0m left.
+2024/07/19 07:55:04.733195 [Main] 	[32mNetwork Discovery   [0m 	Stopped. [32m8[0m left.
+2024/07/19 07:55:04.733464 [Main] 	[32mHTTP Analyzer       [0m 	Stopped. [32m7[0m left.
+2024/07/19 07:55:04.733722 [Main] 	[32mTimeline            [0m 	Stopped. [32m6[0m left.
+2024/07/19 07:55:04.733966 [Main] 	[32mUpdate Manager      [0m 	Stopped. [32m5[0m left.
+2024/07/19 07:55:05.071983 [Main] 	[32mIP Info             [0m 	Stopped. [32m4[0m left.
+2024/07/19 07:55:05.072468 [Main] 	[32mThreat Intelligence [0m 	Stopped. [32m3[0m left.
+2024/07/19 07:55:05.072785 [Main] 	[32mProfiler            [0m 	Stopped. [32m2[0m left.
+2024/07/19 07:55:05.073063 [Main] 	[32mFlow Alerts         [0m 	Stopped. [32m1[0m left.
+2024/07/19 07:55:05.073338 [Main] 	[32mEvidence            [0m 	Stopped. [32m0[0m left.
+2024/07/19 07:55:05.080359 [Main] [Process Manager] Slips shutdown gracefully
+
