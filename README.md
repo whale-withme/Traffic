@@ -15,8 +15,9 @@
   
 ### arp-scan   
   
-流量收集使用
+流量收集使用，对比`alert.log`发现大致是1min内出现两次alert, 间隔在30s左右
   
 ```shell
-arp-scan -l -r 5
+# 积累更多的alert, 重复500次
+arp-scan -l -r 5000
 ```
