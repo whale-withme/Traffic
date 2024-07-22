@@ -1,6 +1,6 @@
-2024/07/18 08:55:22.969072 [Update Manager] Connection error while downloading the file https://check.torproject.org/torbulkexitlist. Aborting.
-2024/07/18 08:55:31.491959 [Input] Problem in Input
-2024/07/18 08:55:31.492507 [Input] Traceback (most recent call last):
+2024/07/22 07:10:00.907679 [Update Manager] Connection error while downloading the file https://check.torproject.org/torbulkexitlist. Aborting.
+2024/07/22 07:25:13.972352 [Input] Problem in Input
+2024/07/22 07:25:13.973440 [Input] Traceback (most recent call last):
   File "/StratosphereLinuxIPS/slips_files/common/abstracts/core.py", line 52, in run
     error: bool = self.main()
   File "/StratosphereLinuxIPS/slips_files/core/input.py", line 949, in main
@@ -9,5 +9,5 @@
     f"Number of zeek generated flows in conn.log: {self.get_flows_number(connlog_path)}",
   File "/StratosphereLinuxIPS/slips_files/core/input.py", line 414, in get_flows_number
     with open(file, "rb") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'output/arp-scan.pcap_2024-07-18_08:54:53/zeek_files/conn.log'
+FileNotFoundError: [Errno 2] No such file or directory: 'output/arp_long.pcap_2024-07-22_07:09:32/zeek_files/conn.log'
 
