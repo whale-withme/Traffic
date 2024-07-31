@@ -1,0 +1,4 @@
+2024/07/31 01:49:13.357700 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/network.csv. Aborting.
+2024/07/31 01:50:53.499708 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/stratosphereips/Civilsphere/main/threatintel/adserversandtrackers.csv. Aborting.
+2024/07/31 01:52:33.662521 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/stratosphereips/Civilsphere/main/threatintel/civilsphereindicators.csv. Aborting.
+2024/07/31 01:54:27.061360 [Update Manager] Connection error while downloading the file https://check.torproject.org/torbulkexitlist. Aborting.
