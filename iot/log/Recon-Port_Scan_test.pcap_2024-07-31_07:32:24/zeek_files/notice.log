@@ -1,0 +1,1 @@
+{"ts":1694102760.44558,"note":"CaptureLoss::Too_Much_Loss","msg":"The capture loss script detected an estimated loss rate above 44.444%","actions":["Notice::ACTION_LOG"],"email_dest":[],"suppress_for":3600.0}
