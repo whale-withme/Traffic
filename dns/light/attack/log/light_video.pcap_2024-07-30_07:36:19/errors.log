@@ -1,0 +1,3 @@
+2024/07/30 07:36:49.905162 [Update Manager] Connection error while downloading the file https://check.torproject.org/torbulkexitlist. Aborting.
+2024/07/30 07:36:52.692227 [Update Manager] Error while reading the TI file modules/threat_intelligence/remote_data_files/bad_ips.txt. Could not find a column with an IP or domain
+2024/07/30 07:36:52.692315 [Update Manager] Error parsing feed https://nerd.cesnet.cz/nerd/data/bad_ips.txt. Updating was aborted.

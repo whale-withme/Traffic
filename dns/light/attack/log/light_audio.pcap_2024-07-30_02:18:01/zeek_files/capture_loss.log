@@ -1,0 +1,13 @@
+{"ts":1605986067.257908,"ts_delta":60.2233350276947,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605986967.289187,"ts_delta":900.0312788486481,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605987867.539333,"ts_delta":900.250146150589,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605988767.772057,"ts_delta":900.2327239513397,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605989668.016074,"ts_delta":900.2440168857574,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605990569.567303,"ts_delta":901.5512290000916,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605991469.669078,"ts_delta":900.1017751693726,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605992369.933102,"ts_delta":900.2640237808228,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605993270.096707,"ts_delta":900.1636052131653,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605994172.765507,"ts_delta":902.6687998771667,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605995073.060854,"ts_delta":900.2953469753265,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605995973.317211,"ts_delta":900.2563569545746,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1605996413.068591,"ts_delta":439.7513802051544,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}

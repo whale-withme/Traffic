@@ -1,0 +1,6 @@
+{"ts":1606002773.926066,"ts_delta":60.056833028793335,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1606003674.333266,"ts_delta":900.4072000980377,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1606004574.454508,"ts_delta":900.1212420463562,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1606005474.52076,"ts_delta":900.0662519931793,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1606006374.730269,"ts_delta":900.209508895874,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}
+{"ts":1606006504.984251,"ts_delta":130.25398206710815,"peer":"zeek","gaps":0,"acks":0,"percent_lost":0.0}

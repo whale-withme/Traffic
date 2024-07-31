@@ -1,0 +1,84 @@
+2024/07/30 02:18:10.199282 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 140, in process_features
+    dataset = dataset.drop(field, axis=1)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/frame.py", line 4906, in drop
+    return super().drop(
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4150, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4185, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/indexes/base.py", line 6017, in drop
+    raise KeyError(f"{labels[mask]} not found in axis")
+KeyError: "['flow_type'] not found in axis"
+
+2024/07/30 02:18:10.199421 [Flow ML Detection] Error in train()
+2024/07/30 02:18:10.199528 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 69, in train
+    self.flows.label = self.flows.label.str.replace(
+AttributeError: 'NoneType' object has no attribute 'label'
+
+2024/07/30 02:18:11.888602 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 140, in process_features
+    dataset = dataset.drop(field, axis=1)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/frame.py", line 4906, in drop
+    return super().drop(
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4150, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4185, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/indexes/base.py", line 6017, in drop
+    raise KeyError(f"{labels[mask]} not found in axis")
+KeyError: "['flow_type'] not found in axis"
+
+2024/07/30 02:18:11.888792 [Flow ML Detection] Error in train()
+2024/07/30 02:18:11.888924 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 69, in train
+    self.flows.label = self.flows.label.str.replace(
+AttributeError: 'NoneType' object has no attribute 'label'
+
+2024/07/30 02:18:13.776916 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 140, in process_features
+    dataset = dataset.drop(field, axis=1)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/frame.py", line 4906, in drop
+    return super().drop(
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4150, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4185, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/indexes/base.py", line 6017, in drop
+    raise KeyError(f"{labels[mask]} not found in axis")
+KeyError: "['flow_type'] not found in axis"
+
+2024/07/30 02:18:13.777149 [Flow ML Detection] Error in train()
+2024/07/30 02:18:13.777290 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 69, in train
+    self.flows.label = self.flows.label.str.replace(
+AttributeError: 'NoneType' object has no attribute 'label'
+
+2024/07/30 02:18:15.562912 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 140, in process_features
+    dataset = dataset.drop(field, axis=1)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/frame.py", line 4906, in drop
+    return super().drop(
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4150, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/generic.py", line 4185, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/usr/local/lib/python3.8/dist-packages/pandas/core/indexes/base.py", line 6017, in drop
+    raise KeyError(f"{labels[mask]} not found in axis")
+KeyError: "['flow_type'] not found in axis"
+
+2024/07/30 02:18:15.563090 [Flow ML Detection] Error in train()
+2024/07/30 02:18:15.563187 [Flow ML Detection] Traceback (most recent call last):
+  File "/StratosphereLinuxIPS/modules/flowmldetection/flowmldetection.py", line 69, in train
+    self.flows.label = self.flows.label.str.replace(
+AttributeError: 'NoneType' object has no attribute 'label'
+
