@@ -1,0 +1,8 @@
+{"ts":1695135023.616805,"name":"truncated_IP","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695135023.616817,"name":"unknown_ip_version","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695135637.313134,"name":"truncated_IP","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695135637.313153,"name":"unknown_ip_version","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695136251.526111,"name":"truncated_IP","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695136251.526128,"name":"unknown_ip_version","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695136867.607727,"name":"truncated_IP","notice":false,"peer":"zeek","source":"IP"}
+{"ts":1695136867.607742,"name":"unknown_ip_version","notice":false,"peer":"zeek","source":"IP"}

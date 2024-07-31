@@ -1,0 +1,4 @@
+{"ts":1694027476.923999,"host":"10.0.0.254","port_num":1883,"port_proto":"tcp","service":["MQTT"]}
+{"ts":1694027486.882424,"host":"192.168.137.1","port_num":53,"port_proto":"udp","service":["DNS"]}
+{"ts":1694027584.516145,"host":"192.168.137.1","port_num":67,"port_proto":"udp","service":["DHCP"]}
+{"ts":1694027700.39306,"host":"192.168.137.233","port_num":6668,"port_proto":"tcp","service":["IRC"]}

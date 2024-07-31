@@ -1,0 +1,6 @@
+2024/07/31 02:24:55.963171 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/stratosphereips/Civilsphere/main/threatintel/adserversandtrackers.csv. Aborting.
+2024/07/31 02:26:36.058167 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/stratosphereips/Civilsphere/main/threatintel/civilsphereindicators.csv. Aborting.
+2024/07/31 02:28:25.478638 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/compromised-ips.intel. Aborting.
+2024/07/31 02:29:36.082216 [Update Manager] Timeout reached while downloading the file https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/cps-collected-iocs.intel. Aborting.
+2024/07/31 02:29:36.253972 [Update Manager] Connection error while downloading the file https://check.torproject.org/torbulkexitlist. Aborting.
+2024/07/31 02:31:42.211945 [Update Manager] Connection error while downloading the file https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v2_domains.txt. Aborting.

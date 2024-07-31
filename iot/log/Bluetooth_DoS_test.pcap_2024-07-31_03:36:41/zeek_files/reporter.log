@@ -1,0 +1,1 @@
+{"ts":1722397006.57958,"level":"Reporter::WARNING","message":"Warning while compiling pcap filter 'ip or not ip': Bluetooth link-layer type filtering not implemented","location":"/opt/zeek/share/zeek/base/frameworks/packet-filter/main.zeek, line 324"}

@@ -1,0 +1,8 @@
+Slips version: 1.0.15
+
+File: Traffic/iot/train/Bluetooth_DoS_train.pcap
+Branch: None
+Commit: None
+Command: ./slips.py -f Traffic/iot/train/Bluetooth_DoS_train.pcap
+Slips start date: 2024/07/31 03:22:05.521942
+Slips end date: 2024/07/31 03:22:40.637130

@@ -1,0 +1,5 @@
+{"ts":1694027568.586191,"uids":["CGgbk43R0rmOzX45ef"],"mac":"00:e0:4c:78:78:21","host_name":"DESKTOP-DMSLA58","msg_types":["DISCOVER","DISCOVER","DISCOVER","DISCOVER"],"duration":15.685487031936646}
+{"ts":1694027584.516145,"uids":["CGgbk43R0rmOzX45ef","CCcn1P2j4w0JMw19Pc"],"client_addr":"192.168.137.233","server_addr":"192.168.137.1","mac":"fc:67:1f:f7:cb:07","domain":"mshome.net","requested_addr":"192.168.137.233","assigned_addr":"192.168.137.233","lease_time":604800.0,"msg_types":["OFFER","ACK","DISCOVER","REQUEST"],"duration":0.22518610954284668}
+{"ts":1694027599.770013,"uids":["CGgbk43R0rmOzX45ef"],"mac":"00:e0:4c:78:78:21","host_name":"DESKTOP-DMSLA58","msg_types":["DISCOVER"],"duration":0.0}
+{"ts":1694027631.501975,"uids":["CGgbk43R0rmOzX45ef"],"mac":"00:e0:4c:78:78:21","host_name":"DESKTOP-DMSLA58","msg_types":["DISCOVER","DISCOVER"],"duration":4.991221904754639}
+{"ts":1694027644.33788,"uids":["CGgbk43R0rmOzX45ef"],"mac":"00:e0:4c:78:78:21","host_name":"DESKTOP-DMSLA58","msg_types":["DISCOVER","DISCOVER"],"duration":16.46617603302002}

@@ -1,0 +1,2 @@
+{"ts":1694027530.784365,"note":"CaptureLoss::Too_Little_Traffic","msg":"Only observed 0 TCP ACKs and was expecting at least 1.","actions":["Notice::ACTION_LOG"],"email_dest":[],"suppress_for":3600.0}
+{"ts":1694027700.39306,"note":"CaptureLoss::Too_Much_Loss","msg":"The capture loss script detected an estimated loss rate above 47.368%","actions":["Notice::ACTION_LOG"],"email_dest":[],"suppress_for":3600.0}

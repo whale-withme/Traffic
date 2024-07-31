@@ -1,0 +1,2 @@
+{"ts":1605998119.684973,"cause":"violation","analyzer_kind":"protocol","analyzer_name":"DNP3_UDP","uid":"CLs0DP2kALigXWg68h","id.orig_h":"fe80::d025:8944:57ba:5906","id.orig_p":49654,"id.resp_h":"ff02::1:3","id.resp_p":5355,"failure_reason":"broken_checksum"}
+{"ts":1605998119.685021,"cause":"violation","analyzer_kind":"protocol","analyzer_name":"DNP3_UDP","uid":"CoV5LM33UJWMusNhF7","id.orig_h":"192.168.20.110","id.orig_p":49654,"id.resp_h":"224.0.0.252","id.resp_p":5355,"failure_reason":"broken_checksum"}

@@ -1,0 +1,8 @@
+Slips version: 1.0.15
+
+File: Traffic/lot/train/Bluetooth_Benign_train.pcap
+Branch: None
+Commit: None
+Command: ./slips.py -f Traffic/lot/train/Bluetooth_Benign_train.pcap
+Slips start date: 2024/07/31 03:00:12.352248
+Slips end date: 2024/07/31 03:00:47.498213
