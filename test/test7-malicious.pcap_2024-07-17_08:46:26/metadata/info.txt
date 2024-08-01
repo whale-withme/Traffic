@@ -1,0 +1,8 @@
+Slips version: 1.0.15
+
+File: dataset/test7-malicious.pcap
+Branch: None
+Commit: None
+Command: ./slips.py -c config/slips.conf -f dataset/test7-malicious.pcap -e 3
+Slips start date: 2024/07/17 08:46:30.833554
+Slips end date: 2024/07/17 08:47:05.949976

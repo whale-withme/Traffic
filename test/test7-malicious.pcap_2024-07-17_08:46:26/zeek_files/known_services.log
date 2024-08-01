@@ -1,0 +1,2 @@
+{"ts":1520628587.355994,"host":"192.168.2.1","port_num":67,"port_proto":"udp","service":["DHCP"]}
+{"ts":1520628795.692961,"host":"192.168.2.16","port_num":22,"port_proto":"tcp","service":["SSH"]}

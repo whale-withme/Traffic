@@ -1,0 +1,2 @@
+{"ts":1520628795.490027,"host":"192.168.2.1","software_type":"SSH::CLIENT","name":"OpenSSH","version.major":7,"version.minor":4,"unparsed_version":"OpenSSH_7.4"}
+{"ts":1520628795.591828,"host":"192.168.2.16","host_p":22,"software_type":"SSH::SERVER","name":"OpenSSH","version.major":6,"version.minor":7,"version.addl":"p1","unparsed_version":"OpenSSH_6.7p1 Raspbian-5"}
